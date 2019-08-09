@@ -1,0 +1,920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ kerikeri
+msgid "Not Found"
+msgstr "Nichts gefunden"
+
+#: 404.php:20
+#@ kerikeri
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Entschuldigung, aber die Seite konnte leider nicht gefunden werden. Vielleicht findest du ein Ergebnis über die Suchfunktion."
+
+#: archive.php:24
+#@ kerikeri
+msgid "Blog Archives"
+msgstr "Blogarchiv"
+
+#: content-page.php:19
+#: content-single.php:35
+#: content.php:38
+#@ kerikeri
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: comments.php:13
+#@ kerikeri
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Artikel ist Passwort geschützt. Trage das Passwort ein, um die Kommentare zu sehen."
+
+#: content-aside.php:23
+#: content-audio.php:23
+#: content-chat.php:23
+#: content-gallery.php:23
+#: content-video.php:23
+#: content.php:23
+#, php-format
+#@ kerikeri
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: functions.php:71
+#@ kerikeri
+msgid "Primary Navigation"
+msgstr "Haupt-Navigation"
+
+#: header.php:29
+#, php-format
+#@ kerikeri
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions.php:165
+#, php-format
+#@ kerikeri
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:181
+#@ kerikeri
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in Moderation."
+
+#: search.php:33
+#@ kerikeri
+msgid "Nothing Found"
+msgstr "Keine Einträge gefunden"
+
+#: search.php:37
+#@ kerikeri
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Entschuldigung, leider wurde zu deiner Suchanfrage kein Eintrag gefunden. Bitte versuche es noch einmal mit anderen Schlagwörtern."
+
+#: author.php:17
+#, php-format
+#@ kerikeri
+msgid "Author Archives: <span class=\"vcard\">%s</span>"
+msgstr "Alle Artikel von: <span class=\"vcard\">%s</span>"
+
+#: functions.php:763
+#: functions.php:977
+#: functions.php:1064
+#@ kerikeri
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/theme-options.php:147
+#@ default
+msgid "custom_logo"
+msgstr "custom_logo"
+
+#: comments.php:75
+#@ kerikeri
+msgctxt "noun"
+msgid "Message <span class=\"required\">*</span>"
+msgstr "Nachricht <span class=\"required\">*</span>"
+
+#: includes/theme-options.php:63
+#: includes/theme-options.php:64
+#@ kerikeri
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: includes/theme-options.php:110
+#, php-format
+#@ kerikeri
+msgid "%s Theme Options"
+msgstr "%s Theme Optionen"
+
+#: includes/theme-options.php:124
+#@ kerikeri
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: functions.php:174
+#@ kerikeri
+msgid "Reply"
+msgstr "Antworten"
+
+#: comments.php:76
+#@ kerikeri
+msgid "Send"
+msgstr "Senden"
+
+#: comments.php:64
+#@ kerikeri
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions.php:997
+#@ kerikeri
+msgid "Number of photos:"
+msgstr "Anzahl der Bilder:"
+
+#: functions.php:1008
+#@ kerikeri
+msgid "User"
+msgstr "Person"
+
+#: functions.php:1009
+#@ kerikeri
+msgid "Group"
+msgstr "Gruppe"
+
+#: functions.php:1013
+#@ kerikeri
+msgid "Show latest or random pictures:"
+msgstr "Zeige neuste oder zufällige Bilder:"
+
+#: functions.php:1015
+#@ kerikeri
+msgid "Latest"
+msgstr "Neuste"
+
+#: functions.php:1016
+#@ kerikeri
+msgid "Random"
+msgstr "Zufällige"
+
+#: functions.php:1006
+#@ kerikeri
+msgid "Choose user or group:"
+msgstr "Wähle Person oder Gruppe:"
+
+#: functions.php:936
+#@ kerikeri
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#: functions.php:982
+#@ kerikeri
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+
+#: functions.php:823
+#@ kerikeri
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+#: functions.php:788
+#@ kerikeri
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: functions.php:828
+#@ kerikeri
+msgid "Ffffound URL:"
+msgstr "Ffffound URL:"
+
+#: functions.php:798
+#@ kerikeri
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+#: functions.php:878
+#@ kerikeri
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+#: functions.php:883
+#@ kerikeri
+msgid "Gowalla URL:"
+msgstr "Gowalla URL:"
+
+#: functions.php:868
+#@ kerikeri
+msgid "Grooveshark URL:"
+msgstr "Grooveshark URL:"
+
+#: functions.php:863
+#@ kerikeri
+msgid "Last.fm URL:"
+msgstr "Last.fm URL:"
+
+#: functions.php:888
+#@ kerikeri
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+#: functions.php:803
+#@ kerikeri
+msgid "Picasa URL:"
+msgstr "Picasa URL:"
+
+#: functions.php:858
+#@ kerikeri
+msgid "Slideshare URL:"
+msgstr "Slideshare URL:"
+
+#: functions.php:903
+#@ kerikeri
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+#: functions.php:783
+#@ kerikeri
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: functions.php:818
+#@ kerikeri
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#: functions.php:898
+#@ kerikeri
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+#: functions.php:893
+#@ kerikeri
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+#: functions.php:813
+#@ kerikeri
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+#: functions.php:838
+#@ kerikeri
+msgid "Zootool URL:"
+msgstr "Zootool URL:"
+
+#: includes/theme-options.php:146
+#@ kerikeri
+msgid "Custom Logo image"
+msgstr "Eigenes Logobild"
+
+#: includes/theme-options.php:175
+#: includes/theme-options.php:177
+#@ kerikeri
+msgid "Custom Favicon"
+msgstr "Eigenes Favicon"
+
+#: includes/theme-options.php:178
+#@ default
+msgid "custom_favicon"
+msgstr "custom_favicon"
+
+#: includes/theme-options.php:195
+#@ kerikeri
+msgid "Custom Footer text"
+msgstr "Footer Text anpassen"
+
+#: includes/theme-options.php:197
+#@ kerikeri
+msgid "Customize the footer credit text. Standard HTML is allowed."
+msgstr "Trage deinen eigenen Footer-Text ein. Standard HTML-Code ist möglich."
+
+#: functions.php:793
+#@ kerikeri
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+#: functions.php:908
+#@ kerikeri
+msgid "RSS-Feed URL:"
+msgstr "RSS-Feed URL:"
+
+#: functions.php:913
+#@ kerikeri
+msgid "RSS for Comments URL:"
+msgstr "RSS für Kommentare URL:"
+
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:16
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:16
+#: content-quote.php:16
+#: content-single.php:16
+#: content-status.php:16
+#: content-video.php:16
+#: content.php:16
+#: image.php:22
+#@ kerikeri
+msgid "0 comments"
+msgstr "0 Kommentare"
+
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:16
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:16
+#: content-quote.php:16
+#: content-single.php:16
+#: content-status.php:16
+#: content-video.php:16
+#: content.php:16
+#: image.php:22
+#@ kerikeri
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:16
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:16
+#: content-quote.php:16
+#: content-single.php:16
+#: content-status.php:16
+#: content-video.php:16
+#: content.php:16
+#: image.php:22
+#@ kerikeri
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:16
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:16
+#: content-quote.php:16
+#: content-single.php:16
+#: content-status.php:16
+#: content-video.php:16
+#: content.php:16
+#: image.php:22
+#@ kerikeri
+msgid "comments off"
+msgstr "Kommentare deaktiviert"
+
+#: search.php:16
+#, php-format
+#@ kerikeri
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#. translators: 1: date, 2: time
+#: functions.php:169
+#, php-format
+#@ kerikeri
+msgid "%1$s &#64; %2$s"
+msgstr "%1$s &#64; %2$s"
+
+#: comments.php:30
+#, php-format
+#@ kerikeri
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#: comments.php:73
+#@ kerikeri
+msgid "<p class=\"comment-note\">Required fields are marked <span class=\"required\">*</span>.</p>"
+msgstr "<p class=\"comment-note\">Pflichtfelder sind mit <span class=\"required\">*</span> markiert.</p>"
+
+#: functions.php:987
+#@ kerikeri
+msgid "Flickr Profile Link Text:"
+msgstr "Flickr-Profil Link-Text:"
+
+#: functions.php:992
+#@ kerikeri
+msgid "Flickr Profile URL:"
+msgstr "Flickr-Profil URL:"
+
+#: functions.php:808
+#@ kerikeri
+msgid "500px URL:"
+msgstr "500px URL:"
+
+#: functions.php:843
+#@ kerikeri
+msgid "Behance Network URL:"
+msgstr "Behance Network URL:"
+
+#: functions.php:853
+#@ kerikeri
+msgid "Squidoo URL:"
+msgstr "Squidoo URL:"
+
+#: functions.php:873
+#@ kerikeri
+msgid "Soundcloud URL:"
+msgstr "Soundcloud URL:"
+
+#: functions.php:1034
+#@ kerikeri
+msgid "Video Widget"
+msgstr "Video Widget"
+
+#: functions.php:1069
+#@ kerikeri
+msgid "Video embed code:"
+msgstr "Video-Einbettungscode:"
+
+#: functions.php:833
+#@ kerikeri
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: footer.php:27
+#@ kerikeri
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:269
+#@ kerikeri
+msgid "Submit"
+msgstr "Senden"
+
+#: archive.php:18
+#, php-format
+#@ kerikeri
+msgid "Day: <span>%s</span>"
+msgstr "Tag: <span>%s</span>"
+
+#: archive.php:20
+#, php-format
+#@ kerikeri
+msgid "Month: <span>%s</span>"
+msgstr "Monat: <span>%s</span>"
+
+#: archive.php:22
+#, php-format
+#@ kerikeri
+msgid "Year: <span>%s</span>"
+msgstr "Jahr: <span>%s</span>"
+
+#: category.php:15
+#, php-format
+#@ kerikeri
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: image.php:23
+#@ kerikeri
+msgid "Edit this post"
+msgstr "Artikel bearbeiten"
+
+#: content-single.php:48
+#, php-format
+#@ kerikeri
+msgid "Posted by %s"
+msgstr "Veröffentlicht von %s"
+
+#: content-aside.php:38
+#: content-audio.php:38
+#: content-chat.php:38
+#: content-gallery.php:38
+#: content-image.php:34
+#: content-link.php:34
+#: content-quote.php:34
+#: content-status.php:34
+#: content-video.php:38
+#@ kerikeri
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: includes/theme-options.php:144
+#@ kerikeri
+msgid "Custom Logo"
+msgstr "Eigenes Logo"
+
+#: includes/theme-options.php:202
+#: includes/theme-options.php:204
+#@ kerikeri
+msgid "Share option for posts"
+msgstr "Teilen-Buttons für Artikel"
+
+#: includes/theme-options.php:211
+#: includes/theme-options.php:213
+#@ kerikeri
+msgid "Share option for single post pages only"
+msgstr "Teilen-Buttons nur auf Einzelartikel-Seiten"
+
+#: includes/theme-options.php:220
+#: includes/theme-options.php:222
+#@ kerikeri
+msgid "Share option for pages"
+msgstr "Teilen-Buttons für Seiten"
+
+#: share.php:14
+#@ kerikeri
+msgid "Tweet"
+msgstr "Twitter"
+
+#: tag.php:15
+#, php-format
+#@ kerikeri
+msgid "Tag: %s"
+msgstr "Schlagwort: %s"
+
+#: includes/theme-options.php:148
+#: includes/theme-options.php:188
+#@ kerikeri
+msgid "WordPress Media Uploader"
+msgstr "WordPress Mediathek"
+
+#: footer.php:57
+#@ kerikeri
+msgid "en_US"
+msgstr "de_DE"
+
+#: footer.php:27
+#@ kerikeri
+msgid "<span class=\"slash\"> //</span> Proudly powered by"
+msgstr "<span class=\"slash\"> //</span> Proudly powered by"
+
+#: footer.php:28
+#, php-format
+#@ kerikeri
+msgid "<span class=\"slash\"> //</span> Theme: %1$s by %2$s"
+msgstr "<span class=\"slash\"> //</span> Theme: %1$s von %2$s"
+
+#: functions.php:192
+#@ kerikeri
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+#: functions.php:848
+#@ kerikeri
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+#: includes/theme-options.php:148
+#@ kerikeri
+msgid "Upload your own logo image using the "
+msgstr "Lade dein eigenes Logobild hoch"
+
+#: includes/theme-options.php:193
+#@ kerikeri
+msgid "Custom Footer Credit Text"
+msgstr "Individueller Footer Credit-Text"
+
+#: image.php:74
+#, php-format
+#@ kerikeri
+msgid ""
+"<li class=\"image-size\"><span>Image Size:</span> <a href=\"%3$s\" title=\"Link to full-size image\">%4$s&times;%5$s pixels</a> </li>\n"
+"\t\t\t\t\t\t<li><span>Posted in:</span> <a href=\"%6$s\" title=\"%7$s\">%7$s</a></li>"
+msgstr ""
+"<li class=\"image-size\"><span>Bildgröße:</span> <a href=\"%3$s\" title=\"Link to full-size image\">%4$s&times;%5$s Pixel</a> </li>\n"
+"\\\t\\\t\\\t\\\t\\\t\\\t<li><span>Veröffentlicht in:</span> <a href=\"%6$s\" title=\"%7$s\">%7$s</a></li>"
+
+#: image.php:99
+#@ kerikeri
+msgid "Next Image &raquo;"
+msgstr "Nächstes Bild &raquo;"
+
+#: image.php:100
+#@ kerikeri
+msgid "&laquo; Previous Image"
+msgstr "&laquo; Vorheriges Bild"
+
+#: includes/theme-options.php:122
+#@ kerikeri
+msgid "Custom Link Color"
+msgstr "Eigene Linkfarbe"
+
+#: comments.php:48
+#@ kerikeri
+msgid "&larr;  Older Comments"
+msgstr "&larr;  Ältere Kommentare"
+
+#: comments.php:49
+#@ kerikeri
+msgid "Newer Comments  &rarr;"
+msgstr "Neuere Kommentare  &rarr;"
+
+#: content-aside.php:17
+#: content-audio.php:17
+#: content-chat.php:17
+#: content-gallery.php:17
+#: content-link.php:17
+#: content-quote.php:17
+#: content-status.php:17
+#: content-video.php:17
+#: functions.php:173
+#: functions.php:193
+#@ kerikeri
+msgid "Edit &rarr;"
+msgstr "Bearbeiten &rarr;"
+
+#: content-aside.php:18
+#@ kerikeri
+msgid "Aside"
+msgstr "Kurzmitteilung"
+
+#: content-aside.php:27
+#: content-audio.php:27
+#: content-chat.php:27
+#: content-gallery.php:27
+#: content-image.php:23
+#: content-link.php:23
+#: content-quote.php:23
+#: content-status.php:23
+#: content-video.php:27
+#: content.php:37
+#: functions.php:107
+#@ kerikeri
+msgid "Read more &rarr;"
+msgstr "Weiterlesen &rarr;"
+
+#: content-audio.php:18
+#@ kerikeri
+msgid "Audio"
+msgstr "Audio"
+
+#: content-chat.php:18
+#@ kerikeri
+msgid "Chat"
+msgstr "Chatprotokoll"
+
+#: content-gallery.php:18
+#@ kerikeri
+msgid "Gallery"
+msgstr "Galerie"
+
+#: content-image.php:17
+#: content-single.php:17
+#: content.php:17
+#@ kerikeri
+msgid "Edit Post &rarr;"
+msgstr "Artikel bearbeiten &rarr;"
+
+#: content-image.php:18
+#@ kerikeri
+msgid "Image"
+msgstr "Bild"
+
+#: content-link.php:18
+#@ kerikeri
+msgid "Link"
+msgstr "Link"
+
+#: content-quote.php:18
+#@ kerikeri
+msgid "Quote"
+msgstr "Zitat"
+
+#: content-single.php:21
+#: content.php:18
+#@ kerikeri
+msgid "Standard"
+msgstr "Standard"
+
+#: content-single.php:64
+#: content.php:51
+#@ kerikeri
+msgid "Category"
+msgstr "Kategorie"
+
+#: content-single.php:67
+#: header.php:73
+#@ kerikeri
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: content-status.php:18
+#@ kerikeri
+msgid "Status"
+msgstr "Statusmitteilung"
+
+#: content-video.php:18
+#@ kerikeri
+msgid "Video"
+msgstr "Video"
+
+#: footer.php:34
+#@ kerikeri
+msgid "Back to Top"
+msgstr "Zurück nach Oben"
+
+#: functions.php:207
+#@ kerikeri
+msgid "About Widget Area"
+msgstr "About Widgetbereich"
+
+#: functions.php:209
+#@ kerikeri
+msgid "About widget area"
+msgstr "About Widgetbereich"
+
+#: functions.php:217
+#@ kerikeri
+msgid "Tags Widget Area"
+msgstr "Schlagwörter Widgetbereich"
+
+#: functions.php:219
+#@ kerikeri
+msgid "Tags widget area"
+msgstr "Schlagwörter Widgetbereich"
+
+#: functions.php:227
+#: functions.php:229
+#@ kerikeri
+msgid "Additional Widget Area"
+msgstr "Zusätzlicher Widgetbereich"
+
+#: functions.php:250
+#@ kerikeri
+msgid "<i class=\"icon-chevron-left\"></i><span>&laquo; Older posts</span>"
+msgstr "<i class=\"icon-chevron-left\"></i><span>&laquo;Ältere Artikel</span>"
+
+#: functions.php:251
+#@ kerikeri
+msgid "<i class=\"icon-chevron-right\"></i><span>Newer posts &raquo;</span>"
+msgstr "<i class=\"icon-chevron-right\"></i><span>Neuere Artikel &raquo;</span>"
+
+#: functions.php:267
+#@ kerikeri
+msgid "Search this site"
+msgstr "Suche..."
+
+#: functions.php:471
+#@ kerikeri
+msgid "About Widget"
+msgstr "About Widget"
+
+#: functions.php:768
+#@ kerikeri
+msgid "About Image URL:"
+msgstr "About Bild-URL"
+
+#: functions.php:773
+#@ kerikeri
+msgid "About Text:"
+msgstr "About Text:"
+
+#: functions.php:778
+#@ kerikeri
+msgid "Social Links Title:"
+msgstr "Social Links Titel:"
+
+#: functions.php:918
+#@ kerikeri
+msgid "Open all social links in a new browser tab"
+msgstr "Öffne alle Social Links in einem neuen Browser-Tab"
+
+#: header.php:68
+#@ kerikeri
+msgid "Home"
+msgstr "Startseite"
+
+#: header.php:70
+#@ kerikeri
+msgid "About"
+msgstr "Über"
+
+#: header.php:75
+#@ kerikeri
+msgid "Top"
+msgstr "Top"
+
+#: header.php:77
+#@ kerikeri
+msgid "Search"
+msgstr "Suche"
+
+#: includes/theme-options.php:128
+#, php-format
+#@ kerikeri
+msgid "Choose a custom main link color (default Link Color: %s). Do not forget to include the # before the color value."
+msgstr "Wähle eine eigene Haupt Linkfarbe (Standardfarbe ist: %s). Vergiss nicht, das # Symbol vor deinen Farbwert zu setzen!"
+
+#: includes/theme-options.php:133
+#: includes/theme-options.php:135
+#@ kerikeri
+msgid "Custom Link Hover Color"
+msgstr "Eigene Link Hover Farbe"
+
+#: includes/theme-options.php:139
+#, php-format
+#@ kerikeri
+msgid "Choose your own custom main link hover color (default Link Hover Color: %s)."
+msgstr "Wähle eine eigene Haupt Hoverfarbe (Link bei Maus-Rollover) aus (Standardfarbe ist: %s)."
+
+#: includes/theme-options.php:148
+#@ kerikeri
+msgid ". Then copy your logo image file URL and insert the URL here."
+msgstr ". Dann kopiere deine Logobild-URL und trage die URL hier ein."
+
+#: includes/theme-options.php:153
+#: includes/theme-options.php:155
+#@ kerikeri
+msgid "Top Border Color"
+msgstr "Top-Leiste Farbe"
+
+#: includes/theme-options.php:159
+#, php-format
+#@ kerikeri
+msgid "Customize the top border background color (default Topborder Color: %s)."
+msgstr "Wähle eine eigene Top-Leisten Hintergrundfarbe (Standardfarbe ist: %s)."
+
+#: includes/theme-options.php:164
+#: includes/theme-options.php:166
+#@ kerikeri
+msgid "Widget Background Color"
+msgstr "Widget Hintergrundfarbe"
+
+#: includes/theme-options.php:170
+#, php-format
+#@ kerikeri
+msgid "Customize the widget background color (default Widget Background Color: %s)."
+msgstr "Wähle eine eigene Widget Hintergrundfarbe (Standardfarbe ist: %s)."
+
+#: includes/theme-options.php:179
+#@ kerikeri
+msgid "Create a <strong>16x16px</strong> image and generate a .ico favicon using a favicon online generator (e.g. <a href=\"http://www.faviconr.com/\" target=\"_blank\">Faviconr</a>). Now upload your favicon to your themes folder (via FTP) and enter your Favicon URL here (the URL path should be similar to: yourdomain.com/wp-content/themes/kerikeri/favicon.ico)."
+msgstr "Erstelle ein <strong>16x16px</strong> Bild und erzeuge ein .ico favicon mit Hilfe eines Favicon Online Generators (z.B. <a href=\"http://www.faviconr.com/\" target=\"_blank\">Faviconr</a>). Jetzt kannst du dein .ico Favicon (mit einem FTP Programm) in deinen Themes-Ordner hochladen und die URL des Favicons hier eintragen (der URL Pfad sollte ähnlich sein wie:  deinedomain.de/wp-content/themes/kerikeri/favicon.ico)."
+
+#: includes/theme-options.php:184
+#: includes/theme-options.php:186
+#@ kerikeri
+msgid "Custom Apple Touch Icon"
+msgstr "Eigenes Apple Touch Icon"
+
+#: includes/theme-options.php:187
+#@ default
+msgid "custom_apple_icon"
+msgstr ""
+
+#: includes/theme-options.php:188
+#@ kerikeri
+msgid "Create a <strong>128x128px png</strong> image for your webclip icon. Upload your image using the "
+msgstr "Erstelle ein <strong>128x128px png</strong> Bild für dein webclip icon. Lade das Bild über den"
+
+#: includes/theme-options.php:188
+#@ kerikeri
+msgid ". Now copy the image file URL and insert the URL here."
+msgstr "hoch, kopiere die Bild-URL und füge sie hier ein."
+
+#: includes/theme-options.php:206
+#@ kerikeri
+msgid "Check this box to include a Twitter, Facebook and Google+ button to your blogs front page and on single post pages."
+msgstr "Wähle diese Option, um die Twitter, Facebook und Google+ Teilen-Button Option auf deiner Blog-Startseite und auf den Einzel-Artikelseiten einzubinden."
+
+#: includes/theme-options.php:215
+#@ kerikeri
+msgid "Check this box to include the share post buttons <strong>only</strong> on single post pages (below the post content)."
+msgstr "Wähle diese Option, um die Teilen-Buttons <strong>nur</strong> auf den Artikel-Einzelseiten (unterhalb des Artikels) zu integrieren."
+
+#: includes/theme-options.php:224
+#@ kerikeri
+msgid "Check this box to also include the share buttons on pages."
+msgstr "Wähle diese Option, um die Teilen-Buttons auch auf deinen Seiten anzuzeigen."
+
+#: share.php:18
+#@ kerikeri
+msgid "Share"
+msgstr "Teilen"
+
+#: single.php:24
+#@ kerikeri
+msgid "<i class=\"icon-chevron-left\"></i><span>Next Post &raquo;</span>"
+msgstr "<i class=\"icon-chevron-left\"></i><span>Nächster Artikel &raquo;</span>"
+
+#: single.php:25
+#@ kerikeri
+msgid "<i class=\"icon-chevron-right\"></i><span>&laquo; Previous Post</span>"
+msgstr "<i class=\"icon-chevron-right\"></i><span>&laquo; Vorheriger Artikel</span>"
+
